@@ -1,0 +1,6 @@
+{
+  "name": "Smart Planting Predictor - Gemma 4",
+  "description": "AI agricultural assistant predicting optimal crop planting dates, rainfall suitability, weather risk alerts, and farming timelines powered by Gemma 4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
